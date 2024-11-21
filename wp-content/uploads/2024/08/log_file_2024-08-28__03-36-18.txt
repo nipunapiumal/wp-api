@@ -1,0 +1,517 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://apidoa.onzdev.com
+Data file = /home/u376549644/domains/onzdev.com/public_html/apidoa/wp-content/uploads/2024/08/demo-content-import-file_2024-08-28__03-36-18.xml
+Widget file = /home/u376549644/domains/onzdev.com/public_html/apidoa/wp-content/uploads/2024/08/demo-widgets-import-file_2024-08-28__03-36-18.json
+Customizer file = /home/u376549644/domains/onzdev.com/public_html/apidoa/wp-content/uploads/2024/08/demo-customizer-import-file_2024-08-28__03-36-18.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import wpcode_location after_paragraph
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import wpcode_tags comments
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import wpcode_tags disable
+[WARNING] Failed to import wpcode_location everywhere
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import wpcode_tags message
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import wpcode_type php
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import wpcode_tags sample
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import wpcode_type text
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import wpcode_location after_paragraph
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import wpcode_tags comments
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import wpcode_tags disable
+[WARNING] Failed to import wpcode_location everywhere
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import wpcode_tags message
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import wpcode_type php
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import wpcode_tags sample
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import wpcode_type text
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import wpcode_location after_paragraph
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import wpcode_tags comments
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import wpcode_tags disable
+[WARNING] Failed to import wpcode_location everywhere
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import wpcode_tags message
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import wpcode_type php
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import wpcode_tags sample
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import wpcode_type text
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import wpcode_location after_paragraph
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import wpcode_tags comments
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import wpcode_tags disable
+[WARNING] Failed to import wpcode_location everywhere
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import wpcode_tags message
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import wpcode_type php
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import wpcode_tags sample
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import wpcode_type text
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import wpcode_location after_paragraph
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import wpcode_tags comments
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import wpcode_tags disable
+[WARNING] Failed to import wpcode_location everywhere
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import wpcode_tags message
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import wpcode_type php
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import wpcode_tags sample
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import wpcode_type text
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import wpcode_location after_paragraph
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import wpcode_tags comments
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import wpcode_tags disable
+[WARNING] Failed to import wpcode_location everywhere
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import wpcode_tags message
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import wpcode_type php
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import wpcode_tags sample
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import wpcode_type text
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import wpcode_location after_paragraph
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import wpcode_tags comments
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import wpcode_tags disable
+[WARNING] Failed to import wpcode_location everywhere
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import wpcode_tags message
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import wpcode_type php
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import wpcode_tags sample
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import wpcode_type text
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import wpcode_location after_paragraph
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import wpcode_tags comments
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import wpcode_tags disable
+[WARNING] Failed to import wpcode_location everywhere
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import wpcode_tags message
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import wpcode_type php
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import wpcode_tags sample
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import wpcode_type text
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import wpcode_location after_paragraph
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import wpcode_tags comments
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import wpcode_tags disable
+[WARNING] Failed to import wpcode_location everywhere
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import wpcode_tags message
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import wpcode_type php
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import wpcode_tags sample
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import wpcode_type text
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import wpcode_location after_paragraph
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import wpcode_tags comments
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import wpcode_tags disable
+[WARNING] Failed to import wpcode_location everywhere
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import wpcode_tags message
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import wpcode_type php
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import wpcode_tags sample
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import wpcode_type text
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import wpcode_location after_paragraph
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import wpcode_tags comments
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import wpcode_tags disable
+[WARNING] Failed to import wpcode_location everywhere
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import wpcode_tags message
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import wpcode_type php
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import wpcode_tags sample
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import wpcode_type text
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import wpcode_location after_paragraph
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import wpcode_tags comments
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import wpcode_tags disable
+[WARNING] Failed to import wpcode_location everywhere
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import wpcode_tags message
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import wpcode_type php
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import wpcode_tags sample
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import wpcode_type text
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+---Importing widgets---
+Sidebar Blog : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Recent Posts Advanced - Latest Post - Imported
+Block - No Title - Imported
+
+Sidebar Page : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Sidebar Service : 
+
+Service Categories - Categories - Imported
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

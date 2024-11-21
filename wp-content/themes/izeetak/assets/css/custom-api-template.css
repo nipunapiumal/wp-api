@@ -1,0 +1,19 @@
+.category-tree-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#category-tree {
+    margin-top: 20px;
+}
+
+.jstree-default .jstree-wholerow-clicked {
+    background-color: #0073aa !important; /* WordPress blue */
+    color: #ffffff;
+    border-radius: 4px;
+}
