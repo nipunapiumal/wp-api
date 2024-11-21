@@ -13,98 +13,50 @@
 </div>
 
 <?php
-// Recursive function to fetch categories hierarchically
-function get_hierarchical_categories($parent_id = 0) {
-    $categories = get_categories([
-        'parent'     => $parent_id,
-        'hide_empty' => false,
-    ]);
+// Fetch categories
+$categories = get_categories(array('hide_empty' => false));
 
-    $tree = [];
-    foreach ($categories as $category) {
-        $tree[] = [
-            'id'       => $category->term_id,
-            'name'     => $category->name,
-            'children' => get_hierarchical_categories($category->term_id),
-        ];
-    }
-    return $tree;
-}
+$category_tree = array();
 
-// Pass the hierarchical data to JavaScript
-// $category_tree_data = get_hierarchical_categories();
-
-// dump($category_tree_data);
-$categories = [
-    ["id" => 1, "name" => "Blog", "children" => []],
-    ["id" => 2, "name" => "Cloud Computing", "children" => []],
-    ["id" => 3, "name" => "Custom Software", "children" => []],
-    ["id" => 4, "name" => "Cyber Security", "children" => []],
-    ["id" => 5, "name" => "IT Consultancy", "children" => []],
-    ["id" => 6, "name" => "IT Support", "children" => []],
-    ["id" => 7, "name" => "Managed IT", "children" => []],
-    ["id" => 8, "name" => "Uncategorized", "children" => []]
-];
-
-$categoryTreeData = array_map(function($category) {
-    return [
-        'id' => $category['id'],
-        'text' => $category['name'],
-        'children' => $category['children']
-    ];
-}, $categories);
-
-//echo json_encode($categoryTreeData);
-
-
-?>
-<script>
-    // var categoryTreeData = <?php echo json_encode($category_tree_data); ?>;
-</script>
-<script>
-    let categoryTreeData = <?php echo json_encode($categoryTreeData); ?>;
-
-</script>
-
-<?php
-// Recursive function to display categories as a tree
-function display_category_tree($categories, $parent_id = 0) {
-    echo '<ul>';
-    foreach ($categories as $category) {
-        if ($category->parent == $parent_id) {
-            echo '<li>';
-            echo '<input type="checkbox" id="category-' . $category->term_id . '" name="categories[]" value="' . $category->term_id . '">';
-            echo '<label for="category-' . $category->term_id . '">' . $category->name . '</label>';
-
-            // Check for child categories
-            $child_categories = array_filter($categories, function ($cat) use ($category) {
-                return $cat->parent == $category->term_id;
-            });
-
-            if (!empty($child_categories)) {
-                display_category_tree($categories, $category->term_id);
+// Build the category tree
+foreach ($categories as $category) {
+    // Check if this category has a parent
+    if ($category->parent == 0) {
+        $category_tree[] = array(
+            'id' => $category->term_id,
+            'text' => $category->name,
+            'children' => array()
+        );
+    } else {
+        // Find the parent category and add this category as its child
+        foreach ($category_tree as &$parent_category) {
+            if ($parent_category['id'] == $category->parent) {
+                $parent_category['children'][] = array(
+                    'id' => $category->term_id,
+                    'text' => $category->name,
+                );
+                break;
             }
-
-            echo '</li>';
         }
     }
-    echo '</ul>';
 }
 
-// Fetch all categories
-$args = array(
-    'hide_empty' => false,
-    'orderby'    => 'name',
-    'order'      => 'ASC',
-);
-$categories = get_categories($args);
-
-// Render the category tree
-echo '<div class="category-tree">';
-display_category_tree($categories);
-echo '</div>';
-
+// Convert categories to a JSON format for jsTree
+$category_tree_json = json_encode($category_tree);
 ?>
+
+<script type="text/javascript">
+    jQuery(document).ready(function($) {
+        // Initialize jsTree with the categories data
+        $('#category-tree').jstree({
+            "core": {
+                "data": <?php echo $category_tree_json; ?>
+            },
+            "plugins": ["checkbox"] // Enable checkbox plugin
+        });
+    });
+</script>
+
 
 
 <?php get_footer(); ?>
