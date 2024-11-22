@@ -27,3 +27,7 @@
 .jstree .jstree-checkbox {
     margin-left: 10px;
 }
+
+.api-button-text{
+    line-height: 50px !important;
+}

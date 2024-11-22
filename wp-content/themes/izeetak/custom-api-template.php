@@ -8,8 +8,11 @@
 
 <!-- Your custom code here -->
 <div class="category-tree-container">
-    <h3>Select API List</h3>
-    <div id="category-tree"></div>
+    <form method="POST" id="category-form">
+        <h3>Select API List</h3>
+        <div id="category-tree"></div>
+        <button type="submit" id="submit-button" class="api-button-text">Submit</button>
+    </form>
 </div>
 
 <?php
@@ -45,17 +48,48 @@ foreach ($categories as $category) {
 $category_tree_json = json_encode($category_tree);
 ?>
 
+
 <script type="text/javascript">
     jQuery(document).ready(function($) {
-        // Initialize jsTree with the categories data
+        // Initialize jsTree
         $('#category-tree').jstree({
             "core": {
-                "data": <?php echo $category_tree_json; ?>
+                "data": <?php echo $category_tree_json; ?> // Pass category data to jsTree
             },
             "plugins": ["checkbox"] // Enable checkbox plugin
         });
+
+        // Handle form submission
+        $('#category-form').on('submit', function(e) {
+            e.preventDefault(); // Prevent default form submission
+            
+            // Get checked categories
+            var selectedCategories = $('#category-tree').jstree('get_checked');
+            
+            // Log the selected categories
+            console.log("Selected Categories:", selectedCategories);
+
+            // Process the selected categories (e.g., send via AJAX)
+            // $.ajax({
+            //     url: '<?php echo admin_url("admin-ajax.php"); ?>',
+            //     method: 'POST',
+            //     data: {
+            //         action: 'process_selected_categories',
+            //         selected_categories: selectedCategories
+            //     },
+            //     success: function(response) {
+            //         console.log("Server Response:", response);
+            //     },
+            //     error: function(error) {
+            //         console.error("Error:", error);
+            //     }
+            // });
+        });
     });
 </script>
+
+
+
 
 
 
