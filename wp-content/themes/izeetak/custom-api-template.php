@@ -69,21 +69,6 @@ $category_tree_json = json_encode($category_tree);
             // Log the selected categories
             console.log("Selected Categories:", selectedCategories);
 
-            // Process the selected categories (e.g., send via AJAX)
-            // $.ajax({
-            //     url: '<?php echo admin_url("admin-ajax.php"); ?>',
-            //     method: 'POST',
-            //     data: {
-            //         action: 'process_selected_categories',
-            //         selected_categories: selectedCategories
-            //     },
-            //     success: function(response) {
-            //         console.log("Server Response:", response);
-            //     },
-            //     error: function(error) {
-            //         console.error("Error:", error);
-            //     }
-            // });
         });
     });
 </script>
