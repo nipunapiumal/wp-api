@@ -2,7 +2,7 @@
 Tags: AI, AI assistant
 Requires PHP: 8.0
 Tested up to: 6.5
-Stable tag: 2.0.24
+Stable tag: 2.0.25
 Requires at least: 5.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -236,5 +236,9 @@ This section describes how to install the plugin and get it working.
 2.0.23 (2024-10-25)
 - Adjust survey logic
 
-2.0.24 (2024-11-14)
-- Packages update
+2.0.24 (2024-11-12)
+- Change preview domain url
+- Updated amplitude package
+
+2.0.25 (2024-11-20)
+- Translation load fix

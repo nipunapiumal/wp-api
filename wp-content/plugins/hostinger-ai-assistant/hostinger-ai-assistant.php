@@ -16,7 +16,7 @@
  * Plugin Name:       Hostinger AI
  * Plugin URI:        https://hostinger.com
  * Description:       Hostinger AI plugin for WordPress.
- * Version:           2.0.24
+ * Version:           2.0.25
  * Author:            Hostinger
  * Requires PHP:      8.0
  * Requires at least: 5.0
@@ -39,7 +39,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Currently plugin version.
  */
 
-define( 'HOSTINGER_AI_ASSISTANT_VERSION', '2.0.24' );
+define( 'HOSTINGER_AI_ASSISTANT_VERSION', '2.0.25' );
 
 /**
  * Plugin path.
